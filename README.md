@@ -18,6 +18,8 @@ Performs basic arithmetic operations: addition, subtraction, multiplication, and
 2. Ensure Python 3 is installed on your system.
 
 ## Usage
-Run the program using:
-```bash
-python calculator.py
+1. Open the project in your preferred Python IDE (e.g., VS Code, PyCharm, IDLE).
+2. Run the `calculator.py` file.
+3. The calculator window will open.
+4. Click the buttons to input numbers and operations.
+5. Press `=` to calculate or `Clear` to reset.
