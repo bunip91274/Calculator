@@ -8,6 +8,7 @@ Performs basic arithmetic operations: addition, subtraction, multiplication, and
 - A clear button to reset the input field
 - Error handling for invalid inputs
 - Simple and minimal interface
+![Calculator interface](Screenshot%202025-08-01%20103630.png)
 
 ## Requirements
 - Python 3.x
