@@ -11,6 +11,8 @@ Performs basic arithmetic operations: addition, subtraction, multiplication, and
 
 ![Calculator interface](Screenshot%202025-08-01%20103630.png)
 
+*Calculator GUI*
+
 ## Requirements
 - Python 3.x
 - Tkinter (comes pre-installed with most Python distributions)
